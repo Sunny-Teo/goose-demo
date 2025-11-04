@@ -1,1 +1,1 @@
-this was written by goose
+Welcome to awesome world of goose
